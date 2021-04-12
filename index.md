@@ -5,7 +5,7 @@
 ## Table of contents
 
 - [Plot 1](#plot1)
-- - [Plot 2](#plot1)
+- [Plot 2](#plot1)
 
 
 # Plot 1
