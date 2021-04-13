@@ -1,16 +1,24 @@
-## Øvelse 
-
+## Final Project about Traffic in Copenhagen
 
 
 ## Table of contents
 
+- [Figure 1](#Figure1)
 - [Plot 1](#plot1)
-- [Plot 2](#plot1)
+- [Plot 2](#plot2)
+
+
+# Figure 1
+
+
+
+
+<img src="map1.png" width="550" height="450">
+
+
 
 
 # Plot 1
-
-
 
 adfdafd
 
