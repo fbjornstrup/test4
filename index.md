@@ -13,7 +13,7 @@
 
 
 
-<img src="map1.png" width="70" height="450">
+<img src="map1.png" width="700" height="450">
 
 
 
