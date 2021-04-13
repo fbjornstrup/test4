@@ -20,7 +20,7 @@
 
 # Plot 1
 
-adfdafd
+Here is the first plot 
 
 
 Starter med et lille plot 
